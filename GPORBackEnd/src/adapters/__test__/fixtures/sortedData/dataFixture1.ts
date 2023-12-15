@@ -1,0 +1,45 @@
+export const dataFixture1 = [
+  {
+    vegetableName: "carotte nouvelle botte",
+    quatity: 12,
+    unit: "b",
+    place: "t",
+  },
+  {
+    vegetableName: "tomate ancienne en mélange",
+    quatity: 40,
+    unit: "kg",
+    place: "s",
+  },
+  {
+    vegetableName: "tomate cerise multicolore",
+    quatity: 10,
+    unit: "b",
+    place: "s",
+  },
+  { vegetableName: "aubergine", quatity: 18, unit: "kg", place: "s" },
+  { vegetableName: "aubergine graffiti", quatity: 6, unit: "kg", place: "s" },
+  { vegetableName: "concombre", quatity: 96, unit: "p", place: "s" },
+  { vegetableName: "poivron blanc", quatity: 5, unit: "kg", place: "t" },
+  {
+    vegetableName: "courgette verte gros calibre",
+    quatity: 30,
+    unit: "kg",
+    place: "s",
+  },
+  { vegetableName: "betterave rouge vrac", quatity: 5, unit: "kg", place: "h" },
+  {
+    vegetableName: "carotte nouvelle vrac non lavée",
+    quatity: 16,
+    unit: "kg",
+    place: "t",
+  },
+  {
+    vegetableName: "pdt conservation « desirée »super promo",
+    quatity: 20,
+    unit: "kg",
+    place: "s",
+  },
+  { vegetableName: "basilic panaché", quatity: 12, unit: "b", place: "t" },
+  { vegetableName: "persil", quatity: 12, unit: "b", place: "t" },
+];
